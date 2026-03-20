@@ -1,0 +1,12 @@
+2) Considere:  
+1.  início  
+2.  inteiro i  
+3.  i = 1  
+4.  enquanto i <= 5, faça  
+4.1.  mostrar i  
+4.2.  i = i + 2  
+5.  fim  
+ 
+O que será impresso?
+
+Resposta: Vai mostrar 1 ,3 e 5.
