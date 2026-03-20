@@ -1,0 +1,16 @@
+3) Considere:  
+1.  início  
+2.  inteiro n, i, cont  
+3.  cont = 0  
+4.  i = 1 
+5.  ler n  
+6.  enquanto i < n, faça 
+6.1.  se n % i = 0 então  
+6.1.1.  cont = cont + 1  
+6.2.  i = i + 1 
+7.  mostrar cont  
+8.  fim  
+ 
+Se n = 6, qual será a saída?
+
+Resposta: 3
