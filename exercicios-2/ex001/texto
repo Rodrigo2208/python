@@ -1,0 +1,15 @@
+1) Considere o algoritmo:  
+1.  início  
+2.  inteiro x, soma  
+3.  soma = 0  
+4.  ler x  
+5.  enquanto x > 0, faça  
+5.1.  soma = soma + x  
+5.2.  ler x  
+6.  mostrar soma  
+7.  fim  
+ 
+Entrada: 5, 3, 2, 0 
+Qual será a saída? 
+
+Resosta: Na entrada de 5, 3, 2 vai mostrar seus respequitivos multiplos ao infinito. Na entrada de 0 vai mostrar o 0 somente umaa vez.
