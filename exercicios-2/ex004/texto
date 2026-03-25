@@ -1,0 +1,18 @@
+4) Descubra o que faz o seguinte algoritmo: 
+ 
+1.  início 
+2.  inteiro n, o, r, i 
+3.  ler n 
+4.  o = n 
+5.  i = 0 
+6.  enquanto n > 0 faça 
+6.1.  r = n % 10 
+6.2.  i = i * 10 + r 
+6.3.  n ← n // 10 
+7.  se i == o, então 
+7.1.  mostrar "SIM" 
+8.  senão 
+8.1.  mostrar "NAO" 
+9.  fim
+
+Resposta: Vai indentificar se o número é palíndromo.
