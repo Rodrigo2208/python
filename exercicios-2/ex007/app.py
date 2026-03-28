@@ -9,4 +9,3 @@ while f < q:
     n = n - 1
 
 print(f"O fatorial de {q}! é {total}.")
-
